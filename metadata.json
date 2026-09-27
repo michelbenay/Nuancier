@@ -1,0 +1,6 @@
+{
+  "name": "Nuancier & Mélange",
+  "description": "Une application de nuancier et de mélange de couleurs pour peintres et artistes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
